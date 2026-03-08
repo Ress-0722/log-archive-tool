@@ -1,0 +1,27 @@
+{"timestamp":98189,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"File doesn't exist.","can_load":"false","path_key":"clean","glean_timestamp":"1772866052480"}}
+{"timestamp":98220,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"false","glean_timestamp":"1772866052510","path_key":"recovery","loadfail_reason":"File doesn't exist."}}
+{"timestamp":98237,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"File doesn't exist.","path_key":"recoveryBackup","can_load":"false","glean_timestamp":"1772866052527"}}
+{"timestamp":98239,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"cleanBackup","loadfail_reason":"File doesn't exist.","glean_timestamp":"1772866052529","can_load":"false"}}
+{"timestamp":98262,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"false","loadfail_reason":"File doesn't exist.","path_key":"clean","glean_timestamp":"1772866052552"}}
+{"timestamp":98389,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1772866052679","loadfail_reason":"File doesn't exist.","path_key":"recovery","can_load":"false"}}
+{"timestamp":98400,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"File doesn't exist.","can_load":"false","glean_timestamp":"1772866052691","path_key":"recoveryBackup"}}
+{"timestamp":98426,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"false","glean_timestamp":"1772866052716","loadfail_reason":"File doesn't exist.","path_key":"cleanBackup"}}
+{"timestamp":99440,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1772866053730","setting":"required"}}
+{"timestamp":101839,"category":"jsonfile","name":"load_logins","extra":{"glean_timestamp":"1772866056129","value":""}}
+{"timestamp":102023,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1772866056313","value":"not-major"}}
+{"timestamp":102561,"category":"addons_manager","name":"disable_extension","extra":{"value":"screenshots@mozilla.org","source":"system-addon","glean_timestamp":"1772866056852","blocklist_state":"0"}}
+{"timestamp":102561,"category":"addons_manager","name":"manage","extra":{"source":"system-addon","addon_type":"extension","method":"disable","addon_id":"screenshots@mozilla.org","blocklist_state":"0","glean_timestamp":"1772866056852"}}
+{"timestamp":103612,"category":"normandy","name":"enroll_nimbus_experiment","extra":{"glean_timestamp":"1772866057902","branch":"control","experimentType":"rollout","value":"encrypted-client-hello-fallback-mechanism"}}
+{"timestamp":103612,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"encrypted-client-hello-fallback-mechanism","experiment_type":"rollout","glean_timestamp":"1772866057903","branch":"control"}}
+{"timestamp":103628,"category":"normandy","name":"enroll_nimbus_experiment","extra":{"branch":"control","experimentType":"rollout","glean_timestamp":"1772866057919","value":"fx-accounts-ping-release-rollout-2"}}
+{"timestamp":103628,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"control","experiment":"fx-accounts-ping-release-rollout-2","glean_timestamp":"1772866057919"}}
+{"timestamp":103672,"category":"normandy","name":"enroll_nimbus_experiment","extra":{"glean_timestamp":"1772866057962","branch":"control","experimentType":"rollout","value":"unified-api-for-spocs-and-top-sites-controlled-rollout-for-release-133"}}
+{"timestamp":103672,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","glean_timestamp":"1772866057962","experiment":"unified-api-for-spocs-and-top-sites-controlled-rollout-for-release-133","branch":"control"}}
+{"timestamp":103731,"category":"normandy","name":"enroll_nimbus_experiment","extra":{"value":"desktop-credit-card-autofill-global-enablement-rollout-release","experimentType":"rollout","glean_timestamp":"1772866058021","branch":"creditcard-enable"}}
+{"timestamp":103731,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","glean_timestamp":"1772866058021","branch":"creditcard-enable","experiment":"desktop-credit-card-autofill-global-enablement-rollout-release"}}
+{"timestamp":103775,"category":"normandy","name":"enroll_nimbus_experiment","extra":{"value":"update-spoc-positions-135-137-rollout","branch":"control","experimentType":"rollout","glean_timestamp":"1772866058065"}}
+{"timestamp":103775,"category":"nimbus_events","name":"enrollment","extra":{"branch":"control","experiment":"update-spoc-positions-135-137-rollout","glean_timestamp":"1772866058065","experiment_type":"rollout"}}
+{"timestamp":103965,"category":"normandy","name":"enroll_nimbus_experiment","extra":{"glean_timestamp":"1772866058255","value":"long-term-holdback-2026-growth-desktop","branch":"delivery","experimentType":"nimbus"}}
+{"timestamp":103965,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"long-term-holdback-2026-growth-desktop","experiment_type":"nimbus","branch":"delivery","glean_timestamp":"1772866058255"}}
+{"timestamp":104157,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1772866058448"}}
+{"timestamp":111577,"category":"doh","name":"state_shutdown","extra":{"glean_timestamp":"1772866065868","value":"null"}}
